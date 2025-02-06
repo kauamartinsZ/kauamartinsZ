@@ -1,6 +1,6 @@
 ## Olá! eu sou o Kauã Martins
 
-- 🔭 Atualmente trabalho como Estágiario.
+- 🔭 Estágiario de uma escola de Tecnologia.
 - 🌱 Ciências Da Computação.
 
 ##
