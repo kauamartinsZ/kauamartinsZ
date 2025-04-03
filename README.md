@@ -1,6 +1,6 @@
 ## Olá! eu sou o Kauã Martins
 
-- 🔭 Estágiario de uma escola de Tecnologia.
+- 🔭 A procura de um estágio.
 - 🌱 Ciências Da Computação.
 
 ##
