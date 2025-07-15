@@ -1,6 +1,6 @@
 ## Olá! eu sou o Kauã Martins
 
-- 🔭 A procura de um estágio.
+- 🔭 Estagiário de TI.
 - 🌱 Ciências Da Computação.
 
 ##
