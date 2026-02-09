@@ -12,11 +12,5 @@ Estudante de **Ciência da Computação** e apaixonado por resolver problemas at
 - **Ferramentas:** Git, GitHub.
 - **Sistemas:** Windows, Linux, Suporte de Redes.
 
-### 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamartinsZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamartinsZ&layout=compact&theme=dark" />
-</p>
-
 ### 📬 Como me encontrar
 - **LinkedIn:** [Kauã Martins](https://www.linkedin.com/in/kauamartinsZ/)
