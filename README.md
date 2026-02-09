@@ -5,10 +5,4 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamartinsZ&show_icons=true&theme=dracula)
-
-##
-
-<div>
-</div>
-          
+"[Snake animation](https://github.com/kauamartinsZ/blob/output/github-contribution-grid-snake.svg)
