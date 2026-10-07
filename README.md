@@ -32,10 +32,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&column=4&margin-w=15" alt="Trophies" /><br/><br/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /><br/>
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kauamartinsZ&theme=tokyonight&column=4&margin-w=15" alt="Trophies" /><br/><br/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauamartinsZ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamartinsZ&layout=compact&theme=tokyonight&hide_border=true" /><br/>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=kauamartinsZ&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -43,8 +43,8 @@
 ### 🐍 Gráfico de Contribuições
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauamartinsZ/kauamartinsZ/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kauamartinsZ/kauamartinsZ/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
