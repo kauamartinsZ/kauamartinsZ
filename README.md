@@ -29,12 +29,18 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kauamartinsZ&theme=tokyonight&column=4&margin-w=15" alt="Trophies" /><br/><br/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauamartinsZ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamartinsZ&layout=compact&theme=tokyonight&hide_border=true" /><br/>
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=kauamartinsZ&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kauamartinsZ&theme=tokyonight&column=4&margin-w=15" alt="Kauã Martins Trophies" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kauamartinsZ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamartinsZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=kauamartinsZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
